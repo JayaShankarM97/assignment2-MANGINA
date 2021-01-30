@@ -17,4 +17,13 @@ ASSIGNMENT - 2
  4. Cook the food
  5. Check for unfinished tasks before going to bed and schedule them for next day.
 
- 
+ ***Here Starts the unordered Lists***
+
+ * Wake-Up early in the Morning.
+ * Check the T0DOist app on the phone to carry out the tasks for that day.
+    * Get ready for the college
+    * Jot it down on notes taught by professor.
+    * Head back to my room after 5PM.
+ * Prepare a list of groceries.
+ * Cook the food
+ * Check for unfinished tasks before going to bed and schedule them for next day.
