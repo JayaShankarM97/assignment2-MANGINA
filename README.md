@@ -29,3 +29,29 @@ ASSIGNMENT - 2
  * Check for unfinished tasks before going to bed and schedule them for next day.
 
  [About Me](https://github.com/JayaShankarM97/assignment2-MANGINA/blob/main/Aboutme.md)
+
+ ----
+
+ It ain't that easy for the people like us to manage work & spend time with family. Everyone needs a downtime in order to get some relief from the chores they do all the day and night. It could be spending valueable time with our loved one's or going for vacation to get lost in the beauty of the nature. What if they could do both of them at the same time? Sounds amazing right?. So, here are the some of the recommended places you need to visit during your downtime from work.
+
+ List of Recommended Places you need to Visit:
+
+ |       Location       |    Hours Allocated    |         Price         |
+ |----------------------|-----------------------|-----------------------|
+ | Orlando Theme Parks  |          2Hrs         |          100$         |
+ |                      |                       |                       |
+ |                      |                       |                       |
+ |     Cloud Gate       |          1Hrs         |          150$         |
+ |                      |                       |                       |
+ |                      |                       |                       |
+ |                      |                       |                       |
+ | Chocolate Factory    |          6Hrs         |          200$         |
+ |                      |                       |                       |
+ |                      |                       |                       |
+ |                      |                       |                       |
+ | South Padre Island   |          10Hrs        |          500$         |
+ |                      |                       |                       |
+ |                      |                       |                       |
+
+
+
