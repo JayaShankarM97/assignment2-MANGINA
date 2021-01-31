@@ -42,7 +42,6 @@ ASSIGNMENT - 2
  |     Cloud Gate       |          1Hrs         |          150$         |
  | Chocolate Factory    |          6Hrs         |          200$         |
  | South Padre Island   |          10Hrs        |          500$         |
- |                      |                       |                       |
 
 ---
 
