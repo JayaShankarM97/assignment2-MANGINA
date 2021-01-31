@@ -32,7 +32,7 @@ ASSIGNMENT - 2
 
  ----
 
- It ain't that easy for the people like us to manage work & spend time with family. Everyone needs a downtime in order to get some relief from the chores they do all the day and night. It could be spending valueable time with our loved one's or going for vacation to get lost in the beauty of the nature. What if they could do both of them at the same time? Sounds amazing right?. So, here are the some of the recommended places you need to visit during your downtime from work.
+ It ain't that easy for the people like us to manage work & spend time with family. Everyone needs downtime to get some relief from the chores they do all day and night. It could be spending valuable time with our loved ones or going on vacation to get lost in the beauty of nature. What if they could do both of them at the same time? Sounds amazing. Isn't it?. So, here are some of the recommended places you need to visit during your downtime from work.
 
  List of Recommended Places you need to Visit:
 
@@ -46,6 +46,10 @@ ASSIGNMENT - 2
 ---
 
 It's time to get some 'WISDOM'
+
+> "What goes around, comes around." - *Floyd Mayweather, Jr*
+> "When you want something; all the universe conspires in helping you to achieve it." - *Paulo Coelho*
+> "Good things take time, as they should." - *John Wooden*
 
 
 
