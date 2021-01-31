@@ -65,7 +65,8 @@ Reference Link - <https://en.wikipedia.org/wiki/Kotlin_(programming_language)>
 
 Program to print an 'Integer' in 'Kotlin language'
 
-```import java.util.Scanner
+```
+import java.util.Scanner
 
 fun main(args: Array<String>) {
 
@@ -79,9 +80,11 @@ fun main(args: Array<String>) {
 
     // println() prints the following line to the output screen
     println("You entered: $integer")
-}```
+}
+```
 
-> You can find the SOURCE CODE here - <https://www.programiz.com/kotlin-programming/examples/print-integer>
+
+You can find the SOURCE CODE here - <https://www.programiz.com/kotlin-programming/examples/print-integer>
 
 
 
