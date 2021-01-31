@@ -53,5 +53,35 @@ It's time to get some 'WISDOM'
 
 > "Good things take time, as they should." - *John Wooden*
 
+---
+
+Time to write some **'CODE'**
+
+> Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise. Kotlin mainly targets the JVM, but also compiles to JavaScript or native code (via LLVM). Language development costs are borne by JetBrains, while the Kotlin Foundation protects the Kotlin trademark.
+<https://en.wikipedia.org/wiki/Kotlin_(programming_language)>
+
+Program to print an 'Integer' in 'Kotlin language'
+
+'''import java.util.Scanner
+
+fun main(args: Array<String>) {
+
+    // Creates a reader instance which takes
+    // input from standard input - keyboard
+    val reader = Scanner(System.`in`)
+    print("Enter a number: ")
+
+    // nextInt() reads the next integer from the keyboard
+    var integer:Int = reader.nextInt()
+
+    // println() prints the following line to the output screen
+    println("You entered: $integer")
+}'''
+
+<https://www.programiz.com/kotlin-programming/examples/print-integer>
+
+
+
+
 
 
