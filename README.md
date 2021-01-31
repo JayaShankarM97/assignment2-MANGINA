@@ -39,19 +39,14 @@ ASSIGNMENT - 2
  |       Location       |    Hours Allocated    |         Price         |
  |----------------------|-----------------------|-----------------------|
  | Orlando Theme Parks  |          2Hrs         |          100$         |
- |                      |                       |                       |
- |                      |                       |                       |
  |     Cloud Gate       |          1Hrs         |          150$         |
- |                      |                       |                       |
- |                      |                       |                       |
- |                      |                       |                       |
  | Chocolate Factory    |          6Hrs         |          200$         |
- |                      |                       |                       |
- |                      |                       |                       |
- |                      |                       |                       |
  | South Padre Island   |          10Hrs        |          500$         |
  |                      |                       |                       |
- |                      |                       |                       |
+
+---
+
+It's time to get some 'WISDOM'
 
 
 
