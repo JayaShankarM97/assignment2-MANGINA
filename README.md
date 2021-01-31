@@ -48,8 +48,8 @@ ASSIGNMENT - 2
 It's time to get some 'WISDOM'
 
 > "What goes around, comes around." - *Floyd Mayweather, Jr*
-> "When you want something; all the universe conspires in helping you to achieve it." - *Paulo Coelho*
-> "Good things take time, as they should." - *John Wooden*
+>> "When you want something; all the universe conspires in helping you to achieve it." - *Paulo Coelho*
+>> "Good things take time, as they should." - *John Wooden*
 
 
 
