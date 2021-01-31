@@ -1,3 +1,3 @@
 # JayaShankar Mangina
 Welcome! I'm JayaShankar Mangina pursuing Master's in Applied Computer Science at Northwest Missouri State University. I hail from Southern part of India. Since my childhood, i always wanted to become a Scientist at ISRO (Indian Space Research Organization). But the things have turned out be different when i hit 19 years old i got interested in computer science and started reseraching about computer related fields. I always aspire to become either a Mobile application/Web Developer or Ethical Hacker. Surfing the web, learning new technologies, playing around with my laptop to learn new stuff by breaking it's stereotypical way of processing applications (I will fix that on my own, later :-) ) are my favorite hobbies during my leisure.
-![Image](C:\Users\S542044\OneDrive - nwmissouri.edu\Desktop\webapps-repos\assignment2-Mangina\assignment2-MANGINA\Image.jpg)
+![Image](https://github.com/JayaShankarM97/assignment2-MANGINA/blob/main/Image.jpg)
