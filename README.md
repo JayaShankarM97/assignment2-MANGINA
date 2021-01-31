@@ -27,3 +27,5 @@ ASSIGNMENT - 2
  * Prepare a list of groceries.
  * Cook the food
  * Check for unfinished tasks before going to bed and schedule them for next day.
+
+ [About Me](https://github.com/JayaShankarM97/assignment2-MANGINA/blob/main/AboutMe.md)
