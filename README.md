@@ -60,7 +60,7 @@ umm. How about diving a little bit into the location details?. Let's go!
  ![Chocolate factory](https://github.com/JayaShankarM97/assignment2-MANGINA/blob/main/Locations/Chocfactory.png)
 
 #### South Padre Island
- South Padre Island is a resort town in Cameron County, Texas, United States. It is part of the Brownsville–Harlingen Metropolitan Statistical Area. The population was 2,816 at the 2010 census.The town is located on South Padre Island, a barrier island along the Texas Gulf Coast accessible via the Queen Isabella Causeway from the town of Port Isabel. South Padre Island is named after José Nicolás Ballí (Padre Ballí), a Catholic priest and settler.
+ South Padre Island is a resort town in Cameron County, Texas, United States. It is part of the Brownsville–Harlingen Metropolitan Statistical Area. The population was 2,816 at the 2010 census.The town is located on South Padre Island, a barrier island along the Texas Gulf Coast accessible via the Queen Isabella Causeway from the town of Port Isabel.
  ![South Padre Island](https://github.com/JayaShankarM97/assignment2-MANGINA/blob/main/Locations/SouthPadreIsland.jpg)
 
 ---
