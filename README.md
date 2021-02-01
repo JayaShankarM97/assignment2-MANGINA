@@ -37,12 +37,20 @@ ASSIGNMENT - 2
 
  List of Recommended Places you need to Visit:
 
- |       Location       |    Hours Allocated    |         Price         |
- |----------------------|-----------------------|-----------------------|
- | Orlando Theme Parks  |          2Hrs         |          100$         |
- |     Cloud Gate       |          1Hrs         |          150$         |
- | Chocolate Factory    |          6Hrs         |          200$         |
- | South Padre Island   |          10Hrs        |          500$         |
+ |       Location       |    Hours Allocated    |         Price         |     Location Images (BONUS SECTION)|
+ |----------------------|-----------------------|-----------------------|-----------------------|
+ | Orlando Theme Parks  |          2Hrs         |          100$         |![O.Park](https://github.com/JayaShankarM97/assignment2-MANGINA/tree/main/Location%20Images)|
+ |                      |                       |                       |                       |
+ |                      |                       |                       |                       |
+ |     Cloud Gate       |          1Hrs         |          150$         |                       |
+ |                      |                       |                       |                       |
+ |                      |                       |                       |                       |
+ | Chocolate Factory    |          6Hrs         |          200$         |                       |
+ |                      |                       |                       |                       |
+ |                      |                       |                       |                       |
+ | South Padre Island   |          10Hrs        |          500$         |                       |
+ |                      |                       |                       |                       |
+ |                      |                       |                       |                       |
 
 ---
 
