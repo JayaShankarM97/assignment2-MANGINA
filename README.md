@@ -44,11 +44,24 @@ ASSIGNMENT - 2
  | Chocolate Factory    |          6Hrs         |          200$         |
  | South Padre Island   |          10Hrs        |          500$         |
 
+## Bonus Section
 umm. How about diving a little bit into the location details?. Let's go!
 
 #### Orlando Theme Parks:
  In Orlando, visitors both young and young at heart can immerse themselves in open-air adventures at the world’s top theme parks! Whether it’s the magic of Walt Disney World® Resort, endless excitement at Universal Orlando Resort, an aquatic wonderland at SeaWorld® Orlando, or building family fun at LEGOLAND® Florida Resort, Orlando has theme parks that are perfect for you.
  ![Orlando Theme Park](https://github.com/JayaShankarM97/assignment2-MANGINA/blob/main/Locations/Orlando.jpg)
+
+#### Cloud Gate
+ Cloud Gate is a public sculpture by Indian-born British artist Sir Anish Kapoor, that is the centerpiece of AT&T Plaza at Millennium Park in the Loop community area of Chicago, Illinois. The sculpture and AT&T Plaza are located on top of Park Grill, between the Chase Promenade and McCormick Tribune Plaza & Ice Rink. Constructed between 2004 and 2006, the sculpture is nicknamed The Bean because of its shape, a name Kapoor initially disliked, but later grew fond of. Made up of 168 stainless steel plates welded together, its highly polished exterior has no visible seams. It measures 33 by 66 by 42 feet (10 by 20 by 13 m), and weighs 110 short tons (100 t; 98 long tons).
+ ![Cloud Gate](https://github.com/JayaShankarM97/assignment2-MANGINA/blob/main/Locations/Cloud_Gate.jpg)
+
+#### Chocolate Factory
+ A tour of the facility will show you just how much love and care go into hand-decorating each individual piece of candy, like these delectable truffles.You'll also see the innovative technology required to produce sweets at the rate they do here. This is a truffle making machine! How neat is that?.The shop goes all-out for major holidays, decorating from floor to ceiling - and, of course, making themed chocolates.
+ ![Chocolate factory](https://github.com/JayaShankarM97/assignment2-MANGINA/blob/main/Locations/Chocfactory.png)
+
+#### South Padre Island
+ South Padre Island is a resort town in Cameron County, Texas, United States. It is part of the Brownsville–Harlingen Metropolitan Statistical Area. The population was 2,816 at the 2010 census.The town is located on South Padre Island, a barrier island along the Texas Gulf Coast accessible via the Queen Isabella Causeway from the town of Port Isabel. South Padre Island is named after José Nicolás Ballí (Padre Ballí), a Catholic priest and settler.
+ ![South Padre Island](https://github.com/JayaShankarM97/assignment2-MANGINA/blob/main/Locations/SouthPadreIsland.jpg)
 
 ---
 
