@@ -38,8 +38,8 @@ ASSIGNMENT - 2
  List of Recommended Places you need to Visit:
 
  |       Location       |    Hours Allocated    |         Price         |     Location Images (BONUS SECTION)|
- |----------------------|-----------------------|-----------------------|-----------------------|
- | Orlando Theme Parks  |          2Hrs         |          100$         |![O.Park](https://github.com/JayaShankarM97/assignment2-MANGINA/tree/main/Location%20Images)|
+ |----------------------|-----------------------|-----------------------|------------------------------------|
+ | Orlando Theme Parks  |          2Hrs         |          100$         |![Orlando Park](shorturl.at/bkHI2)|
  |                      |                       |                       |                       |
  |                      |                       |                       |                       |
  |     Cloud Gate       |          1Hrs         |          150$         |                       |
