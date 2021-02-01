@@ -37,20 +37,18 @@ ASSIGNMENT - 2
 
  List of Recommended Places you need to Visit:
 
- |       Location       |    Hours Allocated    |         Price         |     Location Images (BONUS SECTION)|
- |----------------------|-----------------------|-----------------------|------------------------------------|
- | Orlando Theme Parks  |          2Hrs         |          100$         |![Orlando Park](shorturl.at/bkHI2)|
- |                      |                       |                       |                       |
- |                      |                       |                       |                       |
- |     Cloud Gate       |          1Hrs         |          150$         |                       |
- |                      |                       |                       |                       |
- |                      |                       |                       |                       |
- | Chocolate Factory    |          6Hrs         |          200$         |                       |
- |                      |                       |                       |                       |
- |                      |                       |                       |                       |
- | South Padre Island   |          10Hrs        |          500$         |                       |
- |                      |                       |                       |                       |
- |                      |                       |                       |                       |
+ |       Location       |    Hours Allocated    |         Price         |
+ |----------------------|-----------------------|-----------------------|
+ | Orlando Theme Parks  |          2Hrs         |          100$         |
+ |     Cloud Gate       |          1Hrs         |          150$         |
+ | Chocolate Factory    |          6Hrs         |          200$         |
+ | South Padre Island   |          10Hrs        |          500$         |
+
+umm. How about diving a little bit into the location details?. Let's go!
+
+#### Orlando Theme Parks:
+ In Orlando, visitors both young and young at heart can immerse themselves in open-air adventures at the world’s top theme parks! Whether it’s the magic of Walt Disney World® Resort, endless excitement at Universal Orlando Resort, an aquatic wonderland at SeaWorld® Orlando, or building family fun at LEGOLAND® Florida Resort, Orlando has theme parks that are perfect for you.
+ ![Orlando Theme Park](https://github.com/JayaShankarM97/assignment2-MANGINA/blob/main/Locations/Orlando.jpg)
 
 ---
 
